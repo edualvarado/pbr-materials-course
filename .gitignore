@@ -1,9 +1,12 @@
 # Blender
-*.blend1
-
-*.pyc
 *.blend[1-9]
-__pycache__
-/dist/
-/HDRI/
-/Textures/
+dist/
+
+# Python
+*.pyc
+__pycache__/
+
+# Directories
+HDRI/
+Textures/
+Renders/
