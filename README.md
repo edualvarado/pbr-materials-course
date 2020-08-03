@@ -14,5 +14,5 @@ PBR Texture creation & design with Blender 2.8.
 * Photorealistic Material Creation
 * UV Unwrapping
 
-![Render 1](/Renders/Lava 1 - PBR0167.png?raw=true "Optional Title")
+![Render 1](/Renders/PBR0167.png?raw=true "Optional Title")
 ![Alt Text](https://raw.github.com/edualvarado/pbr-materials-course/master/Renders/Lava 1 - PBR0167.png)
