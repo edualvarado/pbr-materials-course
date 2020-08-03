@@ -14,6 +14,6 @@ PBR Texture creation & design with Blender 2.8.
 * Photorealistic Material Creation
 * UV Unwrapping
 
-![Render 1](/Renders/Lava 1 - PBR0167.png?raw=true)
-![Render 2](/Renders/Mossy Rock - PBR0419.png?raw=true)
-![Render 3](/Renders/Sci-fi Hexagon Pattern - PBR0348.png?raw=true)
+![Render 1](../Renders/master/Lava 1 - PBR0167.png?raw=true)
+![Render 2](../Renders/Mossy Rock - PBR0419.png?raw=true)
+![Render 3](../Renders/Sci-fi Hexagon Pattern - PBR0348.png?raw=true)
