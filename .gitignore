@@ -1,10 +1,11 @@
 # Blender
 *.blend[1-9]
 dist/
-pbr_generation.blend
-pbr_generation - 2.blend
-pbr_generation - 3.blend
 pbr_generation - comparison.blend
+pbr_generation - outputNew.blend
+pbr_generation - outputNew2.blend
+pbr_generation - outputNew3.blend
+pbr_generation - outputTest.blend
 
 # Python
 *.pyc
