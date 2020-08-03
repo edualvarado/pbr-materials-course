@@ -6,6 +6,7 @@ pbr_generation - outputNew.blend
 pbr_generation - outputNew2.blend
 pbr_generation - outputNew3.blend
 pbr_generation - outputTest.blend
+pbr_generation - outputExample.blend
 
 # Python
 *.pyc
