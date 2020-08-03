@@ -13,3 +13,11 @@ PBR Texture creation & design with Blender 2.8.
 * Advanced Rendering Techniques
 * Photorealistic Material Creation
 * UV Unwrapping
+
+![Render 1](https://github.com/edualvarado/
+pbr-materials-course/Renders/Master/Lava 1 - PBR0167.png?raw=true)
+![Render 2](https://github.com/edualvarado/
+pbr-materials-course/Renders/Master/Mossy Rock - PBR0419.png?raw=true)
+![Render 3](https://github.com/edualvarado/
+pbr-materials-course/Renders/Master/Sci-fi Hexagon Pattern - PBR0348.png?raw=true)
+
