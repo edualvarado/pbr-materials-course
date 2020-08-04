@@ -19,7 +19,7 @@ PBR Texture creation & design with Blender 2.8.
 ![Render 1](/Renders/PBR0167.png?raw=true)
 ![Render 2](/Renders/PBR0419.png?raw=true)
 ![Render 3](/Renders/PBR0348.png?raw=true)
-![Render 3](/Renders/PBR0347.png?raw=true)
+![Render 4](/Renders/PBR0347.png?raw=true)
 
 ## Cycles vs. Eevee
 
